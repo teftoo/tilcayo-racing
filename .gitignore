@@ -1,0 +1,4 @@
+node_modules/
+game.backup*.js
+*.bak
+.DS_Store
